@@ -1,0 +1,3 @@
+[submodule "Basic-Calculator"]
+	path = Basic-Calculator
+	url = https://github.com/RahulNegi7/Basic-Calculator.git
