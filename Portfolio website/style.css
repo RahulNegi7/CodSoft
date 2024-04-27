@@ -28,7 +28,7 @@ body{
 .logo {
     position: relative;
     font-size: 25px;
-    color: #570a8b;
+    color: #741eec;
     text-decoration: none;
     font-weight: 600;
 }
@@ -173,8 +173,8 @@ body{
 }
 
 .btn-box a:nth-child(2) {
-    background: transparent;
-    color: #7950d3;
+    background: #001cf0;
+    color: #080b0c;
 }
 
 .btn-box a::before {
@@ -184,7 +184,7 @@ body{
     left: 0;
     width: 0;
     height: 100%;
-    background: rgb(138, 65, 34);
+    background: #00abf0;
     z-index: -1;
     transition: .5s;
 }
